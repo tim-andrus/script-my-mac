@@ -1,0 +1,2 @@
+# zprofile
+eval "$(brew shellenv)"
